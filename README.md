@@ -20,4 +20,6 @@ Use this plugin to replace Punch's default Mustache template engine with [Jade](
 
 	Make sure you **save the templates with `.jade` extension**.
 
+* Paths for includes must start with `/` and be relative to the templates_dir in your config
+
 
